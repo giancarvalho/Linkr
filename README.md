@@ -22,7 +22,9 @@ Linkr is a social media that helps you save, share and explore the beautiful wor
 ## See the project live [here](https://linkr-snowy.vercel.app).
 
 <p align="center">
+  <a href="https://linkr-snowy.vercel.app">
   <img src="https://i.imgur.com/ccP4N33.png" />
+    </a>
 </p>
 
 
