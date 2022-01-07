@@ -23,7 +23,7 @@ Linkr is a social media that helps you save, share and explore the beautiful wor
 
 <p align="center">
   <a href="https://linkr-snowy.vercel.app">
-  <img src="https://i.imgur.com/ccP4N33.png" />
+  <img src="https://i.imgur.com/D3CwLPJ.png" />
     </a>
 </p>
 
@@ -43,4 +43,7 @@ In order to run this app you need to have npm and git installed.
 2) Run ```npm install```
 3) Run ```npm start```
 
+---
+
+This is the 11th project of Driven's Full-stack Web Development program. 
 
