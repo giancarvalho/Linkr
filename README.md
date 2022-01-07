@@ -1,16 +1,44 @@
-# Projeto11_Linkr
-This is a social media created to make it easier to share interesting links, sites and videos found all over the internet. Come take a look!
+# Linkr
 
-To achieve this goal, it was developed as a single page application using [ReactJS](https://github.com/facebook/create-react-app). 
+Linkr is a social media that helps you save, share and explore the beautiful world of the internet. 
 
-This is the 11th project made to 
-"[bootcamp de desenvolvimento web full stack - Responde aí/Driven](https://driven.com.br/)" 
-(full-stack web development) and was made in collaboration with [Gabriel](https://github.com/Nello-Moreira), [Gian](https://github.com/giancarvalho) and [Yasmim](https://github.com/yasmimc).
+### Main features
 
-# Technologies
-* HTML 
-* CSS
-* JavaScript || ReactJS || Axios
+- Post links and videos
+- Read articles and watch videos without leaving the plataform
+- View others location and share yours
+- Comment on posts
+- Repost 
+- Search and follow users
+- Search and view post by hashtags
 
-# See the result here
-[*Project url*](https://github.com/Nello-Moreira/Projeto11_Linkr)
+## Main Technologies
+
+- React
+- React Router
+- Styled Components
+
+
+## See the project live [here](https://linkr-snowy.vercel.app).
+
+<p align="center">
+  <img src="https://i.imgur.com/ccP4N33.png" />
+</p>
+
+
+You can create an account or log in with the following credentials:
+
+```
+email: t@example.com
+password: 123456
+```
+
+## Running locally
+
+In order to run this app you need to have npm and git installed. 
+
+1)  Run ```git clone https://github.com/giancarvalho/Linkr.git ```
+2) Run ```npm install```
+3) Run ```npm start```
+
+
