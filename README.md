@@ -21,19 +21,18 @@ Linkr is a social media that helps you save, share and explore the beautiful wor
 
 ## See the project live [here](https://linkr-snowy.vercel.app).
 
-<p align="center">
-  <a href="https://linkr-snowy.vercel.app">
-  <img src="https://i.imgur.com/D3CwLPJ.png" />
-    </a>
-</p>
-
-
 You can create an account or log in with the following credentials:
 
 ```
 email: t@example.com
 password: 123456
 ```
+
+<p align="center">
+  <a href="https://linkr-snowy.vercel.app">
+  <img src="https://i.imgur.com/D3CwLPJ.png" />
+    </a>
+</p>
 
 ## Running locally
 
